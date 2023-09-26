@@ -21,7 +21,7 @@ Your task is to develop a model or method for segmenting hands from images. We w
 
 7. **Submission Format:** You must upload all your work to this GitHub repository
 
-8. **Contact Information:** If you have any questions or need clarification regarding the task, please contact [Insert Contact Information].
+8. **Contact Information:** If you have any questions or need clarification regarding the task, please contact [tech@aitaca.io](mailto:tech@aitaca.io).
 
 9. **Confidentiality:** Please ensure that you respect any confidentiality agreements or data usage restrictions related to the dataset provided.
 
