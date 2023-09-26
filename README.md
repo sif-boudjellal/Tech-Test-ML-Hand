@@ -19,7 +19,7 @@ Your task is to develop a model or method for segmenting hands from images and p
 
 6. **Code Documentation:** Ensure that your code includes documentation, comments, and a separate README file that explains how to use your code and details the submitted code, including any specific dependencies or setup instructions. If your code relies on specific data folder structures or arrangements, please provide an explanation in the README file about how the data should be organized within the repository.
 
-7. **Submission Format:** You must upload all your work to this GitHub repository
+7. **Submission Format:** You must fork this respository and upload all your work to the fork repository.
 
 8. **Contact Information:** If you have any questions or need clarification regarding the task, please contact [tech@aitaca.io](mailto:tech@aitaca.io).
 
