@@ -17,7 +17,7 @@ Your task is to develop a model or method for segmenting hands from images. We w
    - If you find and use pre-trained neural networks, include the details and sources of those networks.
    - Include a part in your code where you visualize the segmentation results on a subset of the dataset's images.
 
-6. **Code Documentation:** Ensure that your code includes documentation, comments, and a separate README file that explains how to use your code and details the submitted code, including any specific dependencies or setup instructions.If your code relies on specific data folder structures or arrangements, please provide an explanation in the README.md file about how the data should be organized within the repository.
+6. **Code Documentation:** Ensure that your code includes documentation, comments, and a separate README file that explains how to use your code and details the submitted code, including any specific dependencies or setup instructions. If your code relies on specific data folder structures or arrangements, please provide an explanation in the README file about how the data should be organized within the repository.
 
 7. **Submission Format:** You must upload all your work to this GitHub repository
 
