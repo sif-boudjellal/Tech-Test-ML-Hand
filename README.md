@@ -1,11 +1,11 @@
 ![Company Logo](https://aitaca.io/wp-content/uploads/2020/01/logo_loading.png)
 # Task Instruction: Hand Segmentation in Images
 ### Task Description
-Your task is to develop a model or method for segmenting hands from images. We will provide you with a dataset for this task. Your goal is to create a Python solution that performs the segmentation and produces accurate results.
+Your task is to develop a model or method for segmenting hands from images and produces accurate results. The dataset will be provided by Aitaca.
 
 ### Requirements
 
-1. **Dataset:** You will be provided with a dataset containing images that include hands. You should use this dataset for training and testing your model/method. The dataset can be accessed via the following Google Drive link: https://drive.google.com/file/d/1Mc72BLGnZZQ0mhnh9rHOdJzYmITN-PPL/view?usp=sharing. Make sure to download and use this dataset for your task.
+1. **Dataset:** You should use this dataset for training and testing your model/method. The dataset can be accessed via the following Google Drive link: https://drive.google.com/file/d/1Mc72BLGnZZQ0mhnh9rHOdJzYmITN-PPL/view?usp=sharing. Make sure to download and use this dataset for your task.
 
 2. **Programming Language:** You should use Python for this task. You can choose to work in a Python notebook (e.g., Jupyter Notebook) or submit a Python script.
 
