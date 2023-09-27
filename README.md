@@ -5,7 +5,7 @@ Your task is to develop a model or method for segmenting hands from images and p
 
 ### Requirements
 
-1. **Dataset:** You should use this dataset for training and testing your model/method. **Pay special attention to the accuracy when removing the background, avoiding noise in the contouring.** The dataset can be accessed via the following Google Drive link: https://drive.google.com/file/d/1Mc72BLGnZZQ0mhnh9rHOdJzYmITN-PPL/view?usp=sharing. Make sure to download and use this dataset for your task.
+1. **Dataset:** You should use this dataset for training and testing your model/method. **Pay special attention to the accuracy when removing the background, avoiding noise in the contouring.** CThe dataset can be accessed via the following Google Drive link: https://drive.google.com/file/d/1Mc72BLGnZZQ0mhnh9rHOdJzYmITN-PPL/view?usp=sharing. Make sure to download and use this dataset for your task. Model is supposed to remove the background as in the images given in the dataset.
 
 2. **Programming Language:** You should use Python for this task. You can choose to work in a Python notebook (e.g., Jupyter Notebook) or submit a Python script.
 
