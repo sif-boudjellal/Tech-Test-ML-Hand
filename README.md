@@ -1,13 +1,13 @@
 ![Company Logo](https://aitaca.io/wp-content/uploads/2020/01/logo_loading.png)
 # Task Instruction: Hand Segmentation in Images (Background Removal)
 ### Task Description
-Your task is to develop a model or method for segmenting hands from images and produces accurate results. This means isolating the coin by removing the background. The dataset will be provided by Aitaca.
+Your task is to develop a model or method for segmenting hands from images and produces accurate results. This means isolating the hand by removing the background. The dataset will be provided by Aitaca.
 
 ### Requirements
 
 1. **Dataset:** You should use this dataset for training and testing your model/method. **Pay special attention to the accuracy when removing the background, avoiding noise in the contouring.** CThe dataset can be accessed via the following Google Drive link: https://drive.google.com/file/d/1Mc72BLGnZZQ0mhnh9rHOdJzYmITN-PPL/view?usp=sharing. Make sure to download and use this dataset for your task. Model is supposed to remove the background as in the images given in the dataset.
 
-2. **Programming Language:** You should use Python for this task. You can choose to work in a Python notebook (e.g., Jupyter Notebook) or submit a Python script.
+2. **Programming Language:** You should use Python for this task. You can choose to work in a Python notebook (e.g., Jupyter Notebook) as well.
 
 3. **Methods:** You are free to choose any methods you see fit to achieve accurate hand segmentation. This may include neural networks, image processing techniques, or a combination of both. 
 
