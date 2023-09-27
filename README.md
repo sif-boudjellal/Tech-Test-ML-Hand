@@ -1,7 +1,7 @@
 ![Company Logo](https://aitaca.io/wp-content/uploads/2020/01/logo_loading.png)
 # Task Instruction: Hand Segmentation in Images (Background Removal)
 ### Task Description
-Your task is to develop a model or method for segmenting hands from images and produces accurate results. This means isolating the hand by removing the background. The dataset will be provided by Aitaca.
+Your task is to develop a model or method for segmenting hands from images and produces accurate results. This means isolating the coin by removing the background. The dataset will be provided by Aitaca.
 
 ### Requirements
 
