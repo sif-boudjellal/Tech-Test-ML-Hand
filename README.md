@@ -42,6 +42,6 @@ Use the trained model to remove the background from images containing hands.
 **Dataset YAML format**:Example of the YAML format used for defining our dataset.
 `dataset.yaml`
 ## YOLOv8 instance segmentation pretrained model
-the Link of the best YOLOv8 instance segmentation pretrained model.  [here](https://drive.google.com/file/d/16E7s4zICgRMhH0PuPyKXXaHasyIJDpS3/view?usp=sharing).
+the Link of the best YOLOv8 instance segmentation pretrained model.  [here](https://drive.google.com/file/d/16E7s4zICgRMhH0PuPyKXXaHasyIJDpS3/view?usp=sharing)
 
 
