@@ -38,9 +38,10 @@ Use the trained model to remove the background from images containing hands.
 # Repository Structure
 **Notebook**: Jupyter Notebook file that provide code and explanations for the steps mentioned above.
 `Hand_Segmentation_in_Images.ipynb`
+
 **Dataset YAML format**:Example of the YAML format used for defining our dataset.
 `dataset.yaml`
 ## YOLOv8 instance segmentation pretrained model
-the Link of the best YOLOv8 instance segmentation pretrained model.  [here](https://drive.google.com/file/d/1XmHYqArq4yagI5MOiQrVUQdNvT_q_lNH/view?usp=sharing).
+the Link of the best YOLOv8 instance segmentation pretrained model.  [here](https://drive.google.com/file/d/16E7s4zICgRMhH0PuPyKXXaHasyIJDpS3/view?usp=sharing).
 
 
